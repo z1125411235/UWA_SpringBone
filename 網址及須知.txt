@@ -1,0 +1,8 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b5cde92d7f10a201fe9a18a?fbclid=IwAR2bcrDETUMZBN8b4nqwgkkUOH5OWS7eYIO4YpFNENYRFJW-V6sJZ7aG-m4
+
+官方Github網址__https://github.com/yangrc1234/SpringBone
+
+本人Github網址__https://github.com/z1125411235/UWA_SpringBone
+
